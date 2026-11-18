@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Better Shadow",
+    "description": "Make the shadow better",
+    "uuid": "f8565f9b-0e0b-428c-bdc6-50ad6a293a75",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "description": "Better Shadow",
+      "type": "resources",
+      "uuid": "2a9a09e1-9cb7-4922-90bd-69a3a224b39d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["pbr"],
+  "metadata": {
+    "authors": ["LoongLy"]
+  }
+}
